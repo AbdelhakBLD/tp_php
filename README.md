@@ -25,8 +25,8 @@ Vous ne serez pas connecté en root mais via les identifiants du nouvel utilisat
 > Ajouter un nouveau chien faisant parti d'une nouvelle race via un formulaire.
 Travaux attendus : un lien git vers le projet php avec des captures d'écran comprenant les droits du nouvel utilisateur, plus une capture d'ecran de la base de données
 
-![captures_ecran liste_chiens_php, liste_chiens_php](\captures_ecran/liste_chiens_php.png)
+![captures_ecran liste_chiens_php, liste_chiens_php](/captures_ecran/liste_chiens_php.png)
 
-![captures_ecran relation_bdd_animaux, relation_bdd_animaux](\captures_ecran/relation_bdd_animaux.png)
+![captures_ecran relation_bdd_animaux, relation_bdd_animaux](/captures_ecran/relation_bdd_animaux.png)
 
-![captures_ecran droit_visiteur_animaux, droit_visiteur_animaux](\captures_ecran/droits_visiteur_animaux.png)
+![captures_ecran droit_visiteur_animaux, droit_visiteur_animaux](/captures_ecran/droits_visiteur_animaux.png)
