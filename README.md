@@ -27,7 +27,7 @@ Travaux attendus : un lien git vers le projet php avec des captures d'écran com
 
 ![captures_ecran liste_chiens_php, liste_chiens_php](/captures_ecran/liste_chiens_php.png)
 
-![captures_ecran liste_chiens_php, bdd_chiens](/captures_ecran/bdd_chiens)
+![captures_ecran liste_chiens_php, bdd_chiens](/captures_ecran/bdd_chiens.png)
 
 ![captures_ecran relation_bdd_animaux, relation_bdd_animaux](/captures_ecran/relation_bdd_animaux.png)
 
